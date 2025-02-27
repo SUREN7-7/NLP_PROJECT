@@ -27,3 +27,6 @@ The core motive of NLP is to enable computers to understand, analyze, and genera
 
 -> A .yaml (or .yml) file is a YAML (Yet Another Markup Language) file, commonly used for configuration in software development. It is human-readable and follows a key-value format, making it easier to understand than JSON or XML.
 
+creating a virtual environment "textS" so that the required packages are present 
+### conda create -p venv python==3.8 -y
+### conda activate C:\SUREN_NEW\NLP_PROJECT\venv
