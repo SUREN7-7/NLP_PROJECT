@@ -1,0 +1,29 @@
+                                            NATURAL LANGUAGE PROCESSING
+NLP is a field of AI that enables machines to understand, interpret, and generate human language. 
+It powers applications like chatbots, sentiment analysis, machine translation, and text summarization.
+The core motive of NLP is to enable computers to understand, analyze, and generate human language in a meaningful way.
+
+ *  Choose a Summarization Approach
+
+ *  Dataset Collection
+
+ * Data Preprocessing
+
+ * Model Selection & Training
+
+ * Model Evaluation
+
+ *  Deploying the Model
+
+ -------------------------------------------------------------------------------------------------------------------
+
+                                                TEMPLATE
+* Git only tracks files, not empty directories.
+* If workflows/ is empty, it won’t be included in the repository.
+* Adding a .gitkeep file forces Git to track the directory.
+* The workflows/ directory is where GitHub Actions workflows (CI/CD automation) are stored.
+
+-> src contains the components(local package),logging,exceptio,utils,config,pipeline,entity,constants
+
+-> A .yaml (or .yml) file is a YAML (Yet Another Markup Language) file, commonly used for configuration in software development. It is human-readable and follows a key-value format, making it easier to understand than JSON or XML.
+
